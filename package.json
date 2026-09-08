@@ -1,0 +1,10 @@
+{
+  "name": "session-persistence",
+  "version": "1.0.0",
+  "private": true,
+  "description": "OpenCode skill and compaction plugin for safe session persistence",
+  "type": "module",
+  "scripts": {
+    "test": "bun test"
+  }
+}
